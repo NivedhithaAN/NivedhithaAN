@@ -19,8 +19,8 @@
 
 ### 💻 Projects
 
-- **PalmSecure**: A secure palm print authentication project using biometric technology. [GitHub Repository](https://github.com/NivedhithaAN/palmsecure-old)
-- **HidCam**: A hardware-based mobile application to detect hidden cameras. [GitHub Repository](https://github.com/NivedhithaAN/Hid-Cam)
+- [PalmSecure](https://github.com/NivedhithaAN/palmsecure-old) : A secure palm print authentication project using biometric technology
+- [HidCam](https://github.com/NivedhithaAN/Hid-Cam)            : A hardware-based mobile application to detect hidden cameras
 
 ### 🌐 Connect with Me
 
